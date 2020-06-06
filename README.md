@@ -1,7 +1,7 @@
 # BERT_SentimentClassfication
 Sentiment classification using fine-tune BERT with PyTorch
 
-Transformers is from huggingface(https://github.com/huggingface/transformers)
+Transformers package is from [huggingface](https://github.com/huggingface/transformers)
 
 ## Contents
 - create_token.py
