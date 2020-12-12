@@ -1,5 +1,5 @@
-# BERT_SentimentClassfication
-Sentiment classification using fine-tune BERT with PyTorch
+# Supervised Sentiment Classfication on IMDB Dataset
+Sentiment classification using fine-tuned BERT with PyTorch
 
 Transformers package is from [huggingface](https://github.com/huggingface/transformers)
 
