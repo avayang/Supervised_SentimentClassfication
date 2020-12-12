@@ -7,7 +7,7 @@ import os
 import re
 from itertools import chain
 from transformers import BertTokenizer
-PRETRAINED_MODEL_NAME = "bert-base-uncased" #英文pretrain(不區分大小寫)
+PRETRAINED_MODEL_NAME = "bert-base-uncased"
 print(torch.__version__)
 #1.3.1
 
